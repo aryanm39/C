@@ -1,0 +1,3 @@
+This is a sample source file.
+It contains multiple lines of text.
+This file will be copied using the copy program.

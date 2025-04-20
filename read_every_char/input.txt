@@ -1,0 +1,9 @@
+This is a test file for reading every 100th character.
+Make sure this file has enough content for the program to work properly.
+Adding more lines to increase the file size and test the program behavior.
+
+gcc copy.c
+./a.exe source.txt destination.txt
+
+gcc readchar.c
+./a.exe input.txt

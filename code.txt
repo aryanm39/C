@@ -1,0 +1,7 @@
+continuous evaluation test-2 based on programming 
+
+1. Write a c program to read every 10th character from a file(use lseek)
+2. Write a C program to print the names and inodes of all the files in current 
+directory
+3. Write a C program which will take a name of file from command line and 
+print the file size and number of links to each file
